@@ -23,6 +23,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	inputHandler->AssingMoveRightCommand2PressKeyD();
 
 
+
 	ICommand* command_ = nullptr;
 	Player* player = new Player();
 
